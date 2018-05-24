@@ -37,7 +37,9 @@ are contained in `[ ]`. For example:
 
 14. The exception to this rule are things like `[On Monitor]`, `[On Viewscreen]` or `[ OC ]` which indicate the person speaking is
 on the monitor, on the viewscreen or "On Call" (e.g. on the intercom) respectively.
- 
+
+15. The bots check for responses and generate new respones once per minute. Your response will only "count" if it is the last one in the thread. That means when you see a response you need to reply quickly. 
+
 #### Current Bots
 
 - [Picard](https://twitter.com/BotPicard)
